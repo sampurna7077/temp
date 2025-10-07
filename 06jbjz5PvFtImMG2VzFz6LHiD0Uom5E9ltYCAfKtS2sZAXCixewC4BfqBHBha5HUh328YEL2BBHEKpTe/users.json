@@ -1,0 +1,44 @@
+[
+  {
+    "id": "admin-udaan-7075",
+    "email": "info.udaanagencies@gmail.com",
+    "first_name": "Udaan",
+    "last_name": "Admin",
+    "profile_image_url": null,
+    "role": "admin",
+    "created_at": "2025-09-03T12:41:00.000Z",
+    "updated_at": "2025-09-03T12:41:00.000Z",
+    "username": "Admin_Udaan_7075",
+    "password": "47e686ebb75e04ae588cdf39398caa730fa02d216fc680fa03e2037635d36e20f2b92a0e045b33b2a42e18e9e1a5a7836dc49c81d2f60d5c80232e091507a396.b073ba9931a7f29c3715ddba2878573a",
+    "encrypted_email": null,
+    "encrypted_first_name": null,
+    "encrypted_last_name": null
+  },
+  {
+    "id": "II0JKA6scf_kky2DXhNW-",
+    "username": "Admin_Udaan_2075",
+    "email": "mail.udaan.np@gmail.com",
+    "password": "1a3d7af2e01716ad5e126846aa83f86568ef817f70e991a0ef9f5f1da8cdf1129ffeff1df794d69669683282ada0597871e6c3ec82226840424b742b92ac3cec.8644d7e58d013dad909b101b4cabc26b",
+    "role": "user",
+    "created_at": "2025-09-07T07:49:38.002Z",
+    "updated_at": "2025-09-07T07:49:38.002Z"
+  },
+  {
+    "id": "rq4qafKSWZJ3dZdIgNOEa",
+    "username": "Sampurna",
+    "email": "sampurnaodari@gmail.com",
+    "password": "e6e7b59b3d5eeb8e59f3142a209444649b8235fc90fbd4c6d692eb7e00aae1a50dd1a4d883715eba53d43de1fee2511d0d12f233f66ce74496eaf173315083c8.0844853560addad9a08b38ae75786094",
+    "role": "user",
+    "created_at": "2025-09-17T21:11:42.984Z",
+    "updated_at": "2025-09-17T21:11:42.984Z"
+  },
+  {
+    "id": "R-Y4jzd_3ytvsYAKnERtG",
+    "username": "Kishor khatiwada",
+    "email": "kishorkhatiwada66@gmail.com",
+    "password": "b94ef90143802048afdc19f8ae9469737c3216a3f5fd94a540372fc596fc384f644af527aeb1020a074555772606521ae9be5aba36ad4abe2f66f68061883e6d.d9b229da5da8769de78f6837ed82fb83",
+    "role": "user",
+    "created_at": "2025-09-20T08:26:04.282Z",
+    "updated_at": "2025-09-20T08:26:04.282Z"
+  }
+]
